@@ -1,0 +1,63 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Quiz</string>
+
+    <array name="questions">
+        <item>Столица Швеции?</item>
+        <item>В каком году была принята декларация о независимости Америки?:</item>
+        <item>Cтолица Японии - Китай?</item>
+        <item>Сколько дней в високосном году?</item>
+        <item>На какой улице жил Гарри Поттер?</item>
+    </array>
+
+    <array name="first_question_answers">
+        <item>Гавана</item>
+        <item>Гётеборг</item>
+        <item>Стокгольм</item>
+        <item>Маркарт</item>
+        <item>Осло</item>
+    </array>
+
+    <array name="second_question_answers">
+        <item>1775.</item>
+        <item>1889.</item>
+        <item>1885.</item>
+        <item>1776.</item>
+        <item>1779</item>
+    </array>
+
+    <array name="third_question_answers">
+        <item>Нет</item>
+        <item>Да</item>
+        <item>Возможно</item>
+        <item>Затрудняюсь ответить</item>
+        <item>Уверен как никогда!</item>
+    </array>
+
+    <array name="fourth_question_answers">
+        <item>13 дней</item>
+        <item>228 дней</item>
+        <item>365 дней</item>
+        <item>много</item>
+        <item>366 дней</item>
+    </array>
+
+    <array name="fifth_question_answers">
+        <item>ул. Литтл Уингинг</item>
+        <item>ул. Пречистенка</item>
+        <item>ул. Тисовая</item>
+        <item>Вест Сайд</item>
+        <item>Бейкер-стрит</item>
+    </array>
+
+    <array name="true_answers">
+        <item>3</item>
+        <item>4</item>
+        <item>1</item>
+        <item>5</item>
+        <item>3</item>
+    </array>
+    
+    <string name="exit_dialog_tag">Вы уверены, что хотите выйти?</string>
+    <string name="cancel" tools:ignore="ButtonCase">cancel</string>
+    <string name="ok">OK</string>
+</resources>
